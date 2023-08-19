@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(249, 173, 186) !important;
+}
+.edit{
+    color: blue;
+}
+.delete{
+    color: red;
+}
+#todo-table{
+    margin-top: 20px;
+
+}
+.container h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
